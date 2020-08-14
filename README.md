@@ -2,6 +2,12 @@
 
 Easy to understand Simple Flask App from [flask-restful](https://flask-restful.readthedocs.io/en/latest/quickstart.html#full-example)
 
+## Run
+```bash
+pip install -r requirements.txt
+python api.py
+```
+
 ## Docker Build
 
 ```bash
